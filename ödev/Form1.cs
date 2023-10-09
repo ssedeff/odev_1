@@ -20,7 +20,10 @@ namespace ödev
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "Merhaba Dünya";
-
+            textBox1.ForeColor = Color.AliceBlue;
+            textBox1.Enabled= false;
+            textBox1.Visible = true;
+            textBox1.Font = new Font("castellar", 16);
         }
     }
 }
