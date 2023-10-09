@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ödev\ödev\bin\Debug\ödev.exe.config
+C:\Users\User\source\repos\ödev\ödev\bin\Debug\ödev.exe
+C:\Users\User\source\repos\ödev\ödev\bin\Debug\ödev.pdb
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.Form1.resources
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.Properties.Resources.resources
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.exe
+C:\Users\User\source\repos\ödev\ödev\obj\Debug\ödev.pdb
